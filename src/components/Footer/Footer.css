@@ -1,0 +1,12 @@
+.footer-area{
+    padding: 40px 0;
+    background-color: #212529;
+    color: azure;
+    text-align: center;
+}
+.footer-area div{
+    margin-top: 20px;
+}
+.footer-area div img{
+    margin-bottom: 15px;
+}

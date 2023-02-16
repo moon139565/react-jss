@@ -1,0 +1,10 @@
+.gallery-area{
+    padding: 40px 0;
+}
+.gallery-area h3{
+    margin-bottom: 55px;
+    font-size: 32px;
+}
+.gallery-area .single-img-div img{
+    margin-bottom: 25px;
+}
